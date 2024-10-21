@@ -3,6 +3,7 @@
 **Introduction:-**
      This project aims to provide a comprehensive analysis of COVID-19 cases, death and vaccination rates globally, as reported by the World Health Organization (WHO).
      Understanding these metrics is crucial for assessing the pandemic's impact and the effectiveness of vaccination campaigns.
+     
 **Objectives:-**
 1.Data Collection: Gather data on COVID-19 cases death and vaccination rates from Kaggle.com.
 2.Trend Analysis: Analyze trends in COVID-19 cases, death and vaccination rates over time.
@@ -23,6 +24,7 @@
 *Arrange visuals in a user-friendly manner, ensuring clarity and ease of navigation.
 *Use colors and themes to enhance readability and engagement.
 *Include tooltips and data labels for additional context.
+
 **Visualizations:-**
 *Use various visualization types to represent data:
 *Line Charts: For trends over time (e.g., daily cases and vaccinations).
@@ -57,8 +59,10 @@
     -Power BI Desktop version: 2.137.751.0 64-bit (October, 2024)
     -Session ID: 60c4f1e8-b77c-4e1a-86b6-fad7d1ab5f8a
     -Data model: snowflake schema
+    
 **Security and Permissions:-**
 Implement row-level security if the report will be shared with users who need access to specific data.
+
 **Performance Optimization:-**
 Optimize your data model by reducing the size of datasets (e.g., using summarized tables).
 Avoid complex DAX calculations in visuals where possible to enhance performance.
