@@ -7,10 +7,10 @@
      
 **Objectives:-**
 
-1.Data Collection: Gather data on COVID-19 cases death and vaccination rates from Kaggle.com.
-2.Trend Analysis: Analyze trends in COVID-19 cases, death and vaccination rates over time.
-3.Comparative Analysis: Compare data across different regions and countries to identify patterns and disparities.
-4.Impact Assessment: Evaluate the relationship between vaccination rates, COVID-19 cases & death numbers.
+1. Data Collection: Gather data on COVID-19 cases death and vaccination rates from Kaggle.com.
+2. Trend Analysis: Analyze trends in COVID-19 cases, death and vaccination rates over time.
+3. Comparative Analysis: Compare data across different regions and countries to identify patterns and disparities.
+4. Impact Assessment: Evaluate the relationship between vaccination rates, COVID-19 cases & death numbers.
 
 **Data Sources:-**
 
